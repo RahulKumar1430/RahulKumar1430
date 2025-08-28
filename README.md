@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋, I'm Rahul Kumar!
 
-<!--
-**RahulKumar1430/RahulKumar1430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated learner and a passionate **MERN Stack Developer** from India. I love building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ My Tech Stack
+- **Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+#### 🌱 I’m currently learning...
+- TypeScript
+- Next.js
+
+---
+
+#### 📫 How to reach me:
+- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Portfolio:** [Your Portfolio Website URL]
+
+---
+
+#### 📊 My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKumar1430&show_icons=true&theme=dark)
