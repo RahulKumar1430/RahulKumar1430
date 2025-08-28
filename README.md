@@ -92,6 +92,7 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
+    <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=RahulKumar1430&theme=dark&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=RahulKumar1430&theme=dark&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=RahulKumar1430&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
