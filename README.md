@@ -167,7 +167,7 @@
 
 <div align="center">
   
-  <img src="https://leetcode-stats-card.herokuapp.com/card?username=YOUR_LEETCODE_USERNAME&theme=tokyonight" alt="Rahul's LeetCode Stats"/>
+  <img src="https://leetcode-stats-card.herokuapp.com/card?username=Rahulkumar7&theme=tokyonight" alt="Rahul's LeetCode Stats"/>
 
 </div>
 
