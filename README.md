@@ -104,12 +104,12 @@
 
 <div align="center">
   
-  <a href="https://github.com/RahulKumar1430/YOUR_PUBLIC_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=YOUR_PUBLIC_REPO_1&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
+  <a href="https://github.com/RahulKumar1430/Voyalabs-Clone-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=Voyalabs-Clone-Website&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
   </a>
   
-  <a href="https://github.com/RahulKumar1430/YOUR_PUBLIC_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=YOUR_PUBLIC_REPO_2&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
+  <a href="https://github.com/RahulKumar1430/Real-Time-Multiplayer-Chess-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=Real-Time-Multiplayer-Chess-Game&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
   </a>
 
 </div>
@@ -167,24 +167,11 @@
 
 <div align="center">
   
-  <img src="https://leetcode-stats-card.herokuapp.com/card?username=Rahulkumar7&theme=tokyonight" alt="Rahul's LeetCode Stats"/>
-  <img src="https://leetcode-stats-card.herokuapp.com/card?username=Rahulkumar7&theme=tokyonight" alt="Rahul's LeetCode Stats"/>
-
+  <img src="https://leetcard.jacoblin.cool/Rahulkumar7?theme=dark&font=Roboto" alt="Rahul's LeetCode Stats"/>
 </div>
-
-
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=RahulKumar1430&label=Profile%20Views&color=FF6E96&style=for-the-badge" alt="Profile Views" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulKumar1430&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://metrics.lecoq.io/RahulKumar1430?template=classic&config.timezone=Asia%2FKolkata" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
