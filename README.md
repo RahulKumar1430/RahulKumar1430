@@ -163,13 +163,14 @@
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Latest GitHub Activity
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding & Problem Solving Stats
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RahulKumar1430&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&text_color=FFF&custom_title=Weekly%20Development%20Breakdown" width="500"/>
+  <img src="https://leetcode-stats-card.herokuapp.com/card?username=YOUR_LEETCODE_USERNAME&theme=tokyonight" alt="Rahul's LeetCode Stats"/>
 
 </div>
+
 
 <div align="center">
 
