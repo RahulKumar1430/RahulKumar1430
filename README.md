@@ -9,7 +9,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
   A passionate MERN Stack Developer from Ghaziabad, India 🇮🇳
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
@@ -80,24 +80,20 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RahulKumar1430&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF&custom_title=Rahul's%20GitHub%20Stats" />
   
-  <!-- Most Used Languages -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar1430&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&text_color=FFF&hide=html&custom_title=Most%20Used%20Languages"/>
   
 </div>
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulKumar1430&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FFF&sideNums=FFF&currStreakNum=FF6E96&sideLabels=FFF&dates=FFF" width="400"/>
 
 </div>
 
 <div align="center">
   
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulKumar1430&custom_title=Rahul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="95%"/>
 
 </div>
@@ -108,13 +104,12 @@
 
 <div align="center">
   
-  <!-- Project Cards -->
-  <a href="https://github.com/RahulKumar1430/Voyalabs-Clone-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=nurturebox&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
+  <a href="https://github.com/RahulKumar1430/YOUR_PUBLIC_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=YOUR_PUBLIC_REPO_1&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
   </a>
   
-  <a href="https://github.com/RahulKumar1430/nexus-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=nexus-ai&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
+  <a href="https://github.com/RahulKumar1430/YOUR_PUBLIC_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulKumar1430&repo=YOUR_PUBLIC_REPO_2&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFF" />
   </a>
 
 </div>
@@ -168,31 +163,24 @@
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Latest GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Stats
 
 <div align="center">
   
-  <!-- WakaTime Stats -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RahulKumar1430&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=FF6E96&text_color=FFF&custom_title=Weekly%20Development%20Breakdown" width="500"/>
 
 </div>
 
 <div align="center">
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=RahulKumar1430&label=Profile%20Views&color=FF6E96&style=for-the-badge" alt="Profile Views" />
   
-  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=RahulKumar1430&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
 
 </div>
 
 <div align="center">
   
-  <!-- Metrics -->
   <img src="https://metrics.lecoq.io/RahulKumar1430?template=classic&config.timezone=Asia%2FKolkata" />
 
 </div>
